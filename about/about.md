@@ -30,9 +30,7 @@
 ------------------
 - Android图片剪裁库（已开源）
 
-一款Android的图片剪裁库(ImageCropper)，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。
-
-Github地址：[https://github.com/Jhuster/ImageCropper](https://github.com/Jhuster/ImageCropper)
+一款Android的图片剪裁库(ImageCropper)，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。Github地址：[https://github.com/Jhuster/ImageCropper](https://github.com/Jhuster/ImageCropper)
 
 - Android VOIP网络电话
 
