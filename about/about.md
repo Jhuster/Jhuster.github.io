@@ -11,16 +11,16 @@
 **技术特长**
 -----------------------
 
-- 擅长C/C++/Java，熟悉嵌入式系统设计，有丰富的 Win32/Linux/Android 平台开发经验
+- 擅长C/C++/Java，熟悉嵌入式系统，有丰富的 Win32/Linux/Android 平台开发经验
 - 熟悉图像处理、音视频编解码、流媒体技术、网络编程/协议的应用与开发
-- 热衷于分享技术经验，5年技术博客，分享104篇原创文章，60%的文章被社区首页推荐
-- 个人开源项目:[ImageCropper][1]，拥有72+ Star和17+ Fork
+- 热衷于分享技术经验，6年技术博客，分享120多篇原创文章，60%的文章被社区首页推荐
+- 个人开源项目:[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，共拥有170+ Star
 
 **开发经验**
 ------------------
-- IPCamera移动客户端
+- Android App 开发
 
-针对不同客户需求，为公司的网络摄像头开发一系列的Android客户端，涉及到的案例包括：基于P2P方案，基于云存储方案，基于路由器/机顶盒转发方案等等。
+为公司的各种嵌入式产品、智能穿戴设备、网络摄像头等产品开发满足客户需求的Android应用，包括：P2P家庭监控摄像头客户端、支持DLNA协议的音视频播放器、流媒体协议RTSP/RTMP的开发与应用、语音识别与控制等等。
 
 - 视频服务器（DVS）产品固件开发
 
@@ -32,9 +32,13 @@
 
 一款Android的图片剪裁库(ImageCropper)，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。Github地址：[https://github.com/Jhuster/ImageCropper](https://github.com/Jhuster/ImageCropper)
 
+- Android体重档案（已开源）
+
+一款可以记录和查询体重值的Android应用，通过本应用可以随时记录体重值，生成动态曲线图，实时算出BMI值，诊断用户当前健康状况。Github地址：[https://github.com/Jhuster/EWeightScale](https://github.com/Jhuster/EWeightScale)
+
 - Android VOIP网络电话
 
-一款Android网络电话应用，工作于局域网，采用OPUS算法对音频进行压缩和解压缩，采用Speex库对信号进行去噪和回声消除，网络协议、音频编解码和信号处理均基于C语言开发，可方便地移植到Windows/Linux/IOS等多个平台。
+一款Android网络电话应用，工作于局域网，扩展UPnP协议实现了设备发现与通话协议，采用OPUS算法对音频进行压缩和解压缩，采用Speex库对信号进行去噪和回声消除，核心功能基于C++语言开发，可方便地移植到Windows/Linux/IOS等多个平台。
 
 - Android音视频播放器
 
@@ -44,5 +48,4 @@
 **其他信息**
 ---------
 本页面只公开了部分信息，更多详情欢迎邮件联系：lujun.hust@gmail.com。
-
-  [1]: https://github.com/Jhuster/ImageCropper
+  
