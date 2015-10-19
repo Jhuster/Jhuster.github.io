@@ -14,7 +14,7 @@
 - 擅长C/C++/Java，熟悉嵌入式系统，有丰富的 Win32/Linux/Android 平台开发经验
 - 熟悉图像处理、音视频编解码、流媒体技术、网络编程/协议的应用与开发
 - 热衷于分享技术经验，6年技术博客，分享120多篇原创文章，60%的文章被社区首页推荐
-- 个人开源项目:[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，共拥有170+ Star
+- 个人开源项目:[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote), 共拥有250+ Star
 
 **开发经验**
 ------------------
@@ -32,13 +32,17 @@
 
 一款Android的图片剪裁库(ImageCropper)，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。Github地址：[https://github.com/Jhuster/ImageCropper](https://github.com/Jhuster/ImageCropper)
 
-- Android体重档案（已开源）
+- 体重档案（已开源）
 
 一款可以记录和查询体重值的Android应用，通过本应用可以随时记录体重值，生成动态曲线图，实时算出BMI值，诊断用户当前健康状况。Github地址：[https://github.com/Jhuster/EWeightScale](https://github.com/Jhuster/EWeightScale)
 
+- JNote笔记（已开源）
+
+一款支持部分Markdown语法的轻量级便签应用。Github地址：[https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
+
 - Android VOIP网络电话
 
-一款Android网络电话应用，工作于局域网，扩展UPnP协议实现了设备发现与通话协议，采用OPUS算法对音频进行压缩和解压缩，采用Speex库对信号进行去噪和回声消除，核心功能基于C++语言开发，可方便地移植到Windows/Linux/IOS等多个平台。
+一款Android网络电话应用，工作于局域网，自定义设备发现与通话协议，采用OPUS算法对音频进行压缩和解压缩，采用Speex库对信号进行去噪和回声消除，核心功能基于C++语言开发，可方便地移植到Windows/Linux/IOS等多个平台。
 
 - Android音视频播放器
 
