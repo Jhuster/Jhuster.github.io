@@ -3,7 +3,7 @@
 
 **基本信息**
 -----------------------
-- 毕业于华中科技大学，硕士，目前工作于豪威科技（上海）有限公司。
+- 毕业于华中科技大学，计算机硕士，目前工作于豪威科技（上海）有限公司
 - 技术博客: [http://ticktick.blog.51cto.com](http://ticktick.blog.51cto.com)
 - Github:   [https://github.com/Jhuster](https://github.com/Jhuster)
 - E-mail:   lujun.hust@gmail.com
@@ -11,45 +11,78 @@
 **技术特长**
 -----------------------
 
-- 擅长C/C++/Java，熟悉嵌入式系统，有丰富的 Win32/Linux/Android 平台开发经验
-- 熟悉图像处理、音视频编解码、流媒体技术、网络编程/协议的应用与开发
-- 热衷于分享技术经验，6年技术博客，分享120多篇原创文章，60%的文章被社区首页推荐
-- 个人开源项目:[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote), 共拥有250+ Star
+- 熟悉C/C++/Java，项目经验丰富，有良好的软件设计和架构能力，能独当一面
+- 有丰富的Android App开发经验，熟悉Android SDK、Framework、UI设计与实现
+- 熟悉Linux系统编程，开发过跨平台音视频流媒体服务器应用、开发过V4L2视频驱动
+- 热衷于分享技术经验，6年技术博客，分享130多篇原创文章，60%的文章被社区首页推荐
+- 个人开源项目：[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，[TLV](https://github.com/Jhuster/TLV)，在GitHub上拥有400+ Star
 
 **开发经验**
 ------------------
-- Android App 开发
+- **无人机Android客户端**
 
-为公司的各种嵌入式产品、智能穿戴设备、网络摄像头等产品开发满足客户需求的Android应用，包括：P2P家庭监控摄像头客户端、支持DLNA协议的音视频播放器、流媒体协议RTSP/RTMP的开发与应用、语音识别与控制等等。
+类似大疆无人机的项目，支持1080P高清视频拍摄和录像，Android客户端App完成远程控制和画面的实时预览。
 
-- 视频服务器（DVS）产品固件开发
+（1）独立负责Android客户端App开发，完成UI的实现与优化
 
-开发了一款基于TI Davinci平台的ARM+DSP双核视频服务器产品，用于采集8路PAL/NTSC模拟摄像头数据，经过DSP端H.264算法压缩，为远程监控客户端提供设备管理、参数配置、音视频流的抓取与播放等功能。  
+（2）基于Java Socket完成无人机控制协议，并实现视频码流的接收和解析
+
+（3）基于ffmpeg和Android SDK完成音视频的软/硬件解码和显示
+
+（4）通过Samba协议和Web Sever完成录像文件的管理和回放
+
+- **Android智能眼镜项目**
+
+类似Google Glass的项目，实现了一款智能眼镜解决方案。
+
+（1）定制Android Framework，将系统启动时间由39s缩短到16s，提高了60%
+
+（2）编写多款系统内置应用，包括：语音识别与控制、二维码的扫描和识别、支持基于HTTP/RTSP/RTMP协议的远程视频播放、支持基于DLNA协议的音视频投射等功能
+
+- **监控摄像头Android客户端** 
+
+类似DropCam的项目，实现多种家庭监控摄像头应用，包括基于P2P模式、基于Skype协议、基于云存储转发等等。
+
+（1）负责各种方案的Android App客户端开发，完成UI的实现与优化
+
+（2）完成用户登录、注册、系统设置、设备列表、连接管理、远程控制、画面预览、报警检测、录像文件检索与回放、固件升级等页面的实现
+
+- **视频服务器（DVS）产品固件开发** 
+
+一款ARM+DSP双核视频服务器产品（DVS），支持8路PAL/NTSC模拟摄像头，支持同时实现8路音视频数据的采集、编码、转发、存储等功能。
+
+（1）负责为产品的AD/DA芯片编写Linux I2C/V4L2设备驱动
+
+（2）负责ARM端Firmware的视频的采集、编码、网络传输、存储功能的开发
+
+（3）负责Web服务器Boa的移植，配置网页及CGI脚本的编写
+
+（4）项目组长，负责技术攻关、进度管理、任务分配等工作
 
 **个人项目**
 ------------------
-- Android图片剪裁库（已开源）
 
-一款Android的图片剪裁库(ImageCropper)，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。Github地址：[https://github.com/Jhuster/ImageCropper](https://github.com/Jhuster/ImageCropper)
-
-- 体重档案（已开源）
-
-一款可以记录和查询体重值的Android应用，通过本应用可以随时记录体重值，生成动态曲线图，实时算出BMI值，诊断用户当前健康状况。Github地址：[https://github.com/Jhuster/EWeightScale](https://github.com/Jhuster/EWeightScale)
-
-- JNote笔记（已开源）
-
-一款支持部分Markdown语法的轻量级便签应用。Github地址：[https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
-
-- Android VOIP网络电话
+- **Android VOIP网络电话**
 
 一款Android网络电话应用，工作于局域网，自定义设备发现与通话协议，采用OPUS算法对音频进行压缩和解压缩，采用Speex库对信号进行去噪和回声消除，核心功能基于C++语言开发，可方便地移植到Windows/Linux/IOS等多个平台。
 
-- Android音视频播放器
+- **TLV编解码器（已开源）**
 
-一款Android音视频播放器，底层采用FFMPEG库进行软解码，同时支持本地音视频文件（AVI、MP4、3GP等格式）和网络码流（RTSP、RTMP、HTTP等协议）的播放，界面简单易用，内存占用极小。
+一款TLV格式的编解码器库（[TLV](https://github.com/Jhuster/TLV)），提供简单易用的TLV格式编码解码API接口，目前已经实现了C/C++/Java等多个版本。
+
+- **Android图片剪裁库（已开源）**
+
+一款Android的图片剪裁库([ImageCropper](https://github.com/Jhuster/ImageCropper))，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的UI界面，可以方便地集成到Android项目中。
+
+- **体重档案（已开源）**
+
+一款可以记录和查询体重值的Android应用（[体重档案](https://github.com/Jhuster/EWeightScale)），通过本应用可以随时记录体重值，生成动态曲线图，实时算出BMI值，诊断用户当前健康状况。
+
+- **JNote笔记（已开源）**
+
+一款支持部分Markdown语法的轻量级便签应用（[JNote](https://github.com/Jhuster/JNote)）,可以方便快速地完成Markdown标签的添加，支持生成长微博图片保存到本地等功能。
 
 
 **其他信息**
 ---------
 本页面只公开了部分信息，更多详情欢迎邮件联系：lujun.hust@gmail.com。
-  
