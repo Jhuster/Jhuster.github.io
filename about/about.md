@@ -12,10 +12,10 @@
 -----------------------
 
 - 熟悉C/C++/Java，项目经验丰富，有良好的软件设计和架构能力，能独当一面
-- 有丰富的Android App开发经验，熟悉Android SDK、Framework、UI设计与实现
-- 熟悉Linux系统编程，开发过跨平台音视频流媒体服务器应用、开发过V4L2视频驱动
+- 有丰富的Android App开发经验，熟悉 Android SDK,熟悉 JNI/NDK 开发
+- 熟悉 Linux 系统编程,Socket 通信、音视频技术、流媒体传输及网络协议
 - 热衷于分享技术经验，6年技术博客，分享130多篇原创文章，60%的文章被社区首页推荐
-- 个人开源项目：[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，[TLV](https://github.com/Jhuster/TLV)，在GitHub上拥有400+ Star
+- 个人开源项目：[TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在GitHub上拥有400+ Star
 
 **开发经验**
 ------------------
@@ -35,7 +35,7 @@
 
 类似Google Glass的项目，实现了一款智能眼镜解决方案。
 
-（1）定制Android Framework，将系统启动时间由39s缩短到16s，提高了60%
+（1）定制Android Framework，将系统启动时间由31s缩短到15s，提高了50%
 
 （2）编写多款系统内置应用，包括：语音识别与控制、二维码的扫描和识别、支持基于HTTP/RTSP/RTMP协议的远程视频播放、支持基于DLNA协议的音视频投射等功能
 
