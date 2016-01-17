@@ -13,7 +13,7 @@
 
 - 熟悉C/C++/Java，项目经验丰富，有良好的软件设计和架构能力，能独当一面
 - 有丰富的Android App开发经验，熟悉 Android SDK,熟悉 JNI/NDK 开发
-- 熟悉 Linux 系统编程,Socket 通信、音视频技术、流媒体传输及网络协议
+- 熟悉 Linux 系统编程、Socket 通信、音视频技术、流媒体传输及网络协议
 - 热衷于分享技术经验，6年技术博客，分享130多篇原创文章，60%的文章被社区首页推荐
 - 个人开源项目：[TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在GitHub上拥有400+ Star
 
