@@ -3,7 +3,7 @@
 
 **基本信息**
 -----------------------
-- 毕业于华中科技大学，计算机硕士，目前工作于豪威科技（上海）有限公司
+- 毕业于华中科技大学，计算机硕士，目前工作于七牛云存储
 - 技术博客: [http://ticktick.blog.51cto.com](http://ticktick.blog.51cto.com)
 - Github:   [https://github.com/Jhuster](https://github.com/Jhuster)
 - E-mail:   lujun.hust@gmail.com
