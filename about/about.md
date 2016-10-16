@@ -1,5 +1,7 @@
+
 **卢   俊**
 =============
+
 
 **基本信息**
 -----------------------
@@ -8,14 +10,18 @@
 - Github:   [https://github.com/Jhuster](https://github.com/Jhuster)
 - E-mail:   lujun.hust@gmail.com
 
+
+
 **技术特长**
 -----------------------
 
 - 熟悉 C/C++/Java，项目经验丰富，有良好的软件设计和架构能力，能独当一面
-- 有丰富的 Android 开发经验，熟悉 Android Framework, SDK, NDK 开发
+- 有丰富的 Android App 及多媒体开发经验，熟悉 Android SDK，熟悉 JNI/NDK 开发
 - 熟悉 Linux 系统编程、Socket 通信、音视频技术、流媒体传输及网络协议
-- 热衷于分享技术经验，6年技术博客，分享140多篇原创文章，60%的文章被社区首页推荐
-- 个人开源项目：[TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在GitHub上拥有400+ Star
+- 热衷于分享技术经验，7年技术博客，分享140多篇原创文章，60%的文章被社区首页推荐
+- 个人开源项目：[YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)， [TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在GitHub上拥有500+ Star
+
+
 
 **博客专题**
 ------------------
@@ -31,12 +37,17 @@
 
 分享 Android 内核开发相关经验
 
+
 **个人项目**
 ------------------
 
 - **Android VOIP 网络电话**
 
 一款 Android 网络电话应用，工作于局域网，自定义设备发现与通话协议，采用 OPUS 算法对音频进行压缩和解压缩，采用 Speex 库对信号进行去噪和回声消除，核心功能基于 C++ 语言开发，可方便地移植到 Windows/Linux/IOS 等多个平台。
+
+- **YUVDroidTools（已开源）**
+
+一款 Android 平台的 YUV 图像显示工具（ [YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)），基于 ffmpeg 开发，支持各种 YUV 格式图像的解码和显示。
 
 - **TLV编解码器（已开源）**
 
@@ -52,21 +63,25 @@
 
 - **JNote笔记（已开源）**
 
-一款支持部分 Markdown 语法的轻量级便签应用（[JNote](https://github.com/Jhuster/JNote)）,可以方便快速地完成 Markdown 标签的添加，支持生成长微博图片保存到本地等功能。
+一款支持部分 Markdown 语法的轻量级便签应用（[JNote](https://github.com/Jhuster/JNote)），可以方便快速地完成 Markdown 标签的添加，支持生成长微博图片保存到本地等功能。
+
 
 **开发经验**
 ------------------
 
-- **七牛云存储，2016- 至今， Android 多媒体开发工程师**
+####  @ 七牛云存储， Android 多媒体开发工程师，2016 - 至今
 
-（1）RTMP 音视频推流 SDK
+- **Android 播放器 SDK 开发和维护**
 
-（2）音视频播放器
+一款支持 RTMP/HLS 协议播放的 Android 播放器 SDK，提供简单易用的接口，可高度定制化和二次开发，项目地址: [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
 
+- **Android 视频互动 SDK 开发**
 
-- **Omnivision, 2013-2016，嵌入式系统工程师** 
+一款支持 RTMP 推流 + 连麦互动功能的 Android SDK，支持音视频合流和混音，支持丰富的个性化参数配置，并且提供了简单易用的开发接口。
 
-**无人机Android客户端**
+#### @ Omnivision，嵌入式系统工程师，2013 - 2016
+
+- **无人机Android客户端**
 
 类似大疆无人机的项目，支持1080P高清视频拍摄和录像，Android 客户端 App 完成远程控制和画面的实时预览。
 
@@ -78,7 +93,7 @@
 
 （4）通过 Samba 协议和 Web Sever 完成录像文件的管理和回放
 
-**Android智能眼镜项目**
+- **Android智能眼镜项目**
 
 类似 Google Glass 的项目，实现了一款智能眼镜解决方案。
 
@@ -86,7 +101,7 @@
 
 （2）编写多款系统内置应用，包括：语音识别与控制、二维码的扫描和识别、支持基于 HTTP/RTSP/RTMP 协议的远程视频播放、支持基于 DLNA 协议的音视频投射等功能
 
-**监控摄像头Android客户端** 
+- **监控摄像头Android客户端** 
 
 类似 DropCam 的项目，实现多种家庭监控摄像头应用，包括基 于P2P 模式、基于 Skype 协议、基于云存储转发等等。
 
@@ -94,9 +109,9 @@
 
 （2）完成用户登录、注册、系统设置、设备列表、连接管理、远程控制、画面预览、报警检测、录像文件检索与回放、固件升级等页面的实现
 
-- **研究生课题， 2010-2013** 
+#### @ **研究生课题， 2010 - 2013** 
 
-**视频服务器（DVS）产品固件开发** 
+- **视频服务器（DVS）产品固件开发** 
 
 一款 ARM+DSP 双核视频服务器产品（DVS），支持 8 路 PAL/NTSC 模拟摄像头，支持同时实现 8 路音视频数据的采集、编码、转发、存储等功能。
 
@@ -108,11 +123,12 @@
 
 （4）项目组长，负责技术攻关、进度管理、任务分配等工作
 
+
 **其他信息**
 ---------
 本页面只公开了部分信息，更多详情欢迎邮件联系：lujun.hust@gmail.com。
 
-  [1]: http://www.qiniu.com/
-  [2]: http://ticktick.blog.51cto.com/823160/d-15
-  [3]: http://ticktick.blog.51cto.com/823160/d-7
-  [4]: http://ticktick.blog.51cto.com/823160/d-11
+[1]: http://www.qiniu.com/
+[2]: http://ticktick.blog.51cto.com/823160/d-15
+[3]: http://ticktick.blog.51cto.com/823160/d-7
+[4]: http://ticktick.blog.51cto.com/823160/d-11
