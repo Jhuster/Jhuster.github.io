@@ -18,27 +18,26 @@
 - 熟悉 C/C++/Java，有 Android/Linux 内核和驱动开发经验，有良好的软件设计和架构能力，能独当一面
 - 熟悉 ffmpeg，ijkplayer，librtmp，webrtc，x264，libyuv，opus，speex 等开源项目
 - 热衷于分享技术经验，8 年技术博客，分享 150 多篇原创文章，60% 的文章被社区首页推荐
-- 个人开源项目：[YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)， [TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在 GitHub 上拥有 500+ Star
+- 个人的开源项目：[YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)， [TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在 GitHub 上拥有 500+ Star
+- 主导开发的项目：[PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)，在 GitHub 上拥有 2K+ Star，[PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) ，在 GitHub 上拥有 500+ Star
 
 
 ## **工作经历**
 
-#### 2016.03 - 至今     上海七牛信息技术有限公司    直播 SDK 团队负责人 
+#### 2016.03 - 至今     上海七牛信息技术有限公司    客户端团队研发负责人 
 
 - **Android 播放 SDK 开发和维护**
 
-一款支持 RTMP/HLS 协议播放的 Android SDK，接口简单易用，可高度定制化和二次开发，项目地址: [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
-
-1. 负责 SDK 接口的设计和实现，提供了类似 Android 官方的 API 接口和封装
-2. 负责画面旋转、镜像、DNS 预解析等功能的开发，以及缓存策略、播放秒开、累计延时等性能的优化
-3. 负责播放问题的跟进和修复，如：音画不同步、花屏、卡顿、线上 crash 等等
+一款适用于 Android 平台的播放器 SDK，支持 RTMP/HLS 协议播放，支持 H.264/AAC 软硬解，支持 mp4/flv 等多种封装格式，支持首屏秒开、IP 播放、本地缓存、倍数播放等丰富的功能，接口简单易用，可高度定制化和二次开发，项目地址: [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
 
 - **Android 推流 SDK 开发和维护**
 
-一款支持 H.264/ACC 编码的 RTMP 推流 + 连麦互动功能的 Android SDK，接口简单易用，可高度定制化和二次开发，项目地址： [PLDroidCameraStreaming](https://github.com/pili-engineering/PLDroidCameraStreaming)
+一款适用于 Android 平台的推流 SDK，支持 RTMP 协议推流，支持 H.264/AAC 软硬编，支持美颜滤镜、混音反听、连麦互动等丰富的功能， 接口简单易用，可高度定制化和二次开发，项目地址： [PLDroidCameraStreaming](https://github.com/pili-engineering/PLDroidCameraStreaming)
 
-1. 负责 SDK 需求开发和问题修复，包括日志系统设计、编码器效果优化、帧率控制算法优化、动态镜像等
-2. 负责视频连麦互动功能的开发和设计，实现了客户端合流方案，跟进连麦客户的需求开发和问题修复
+- **Android 推流 SDK 开发和维护**
+
+一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发。
+
 
 #### 2013.04 - 2016.03   Omnivision    嵌入式系统工程师 
 
@@ -51,14 +50,14 @@
 3. 基于 ffmpeg 和 MediaCodec 完成音视频的软/硬件解码和显示
 4. 通过 Samba 协议和 Web Sever 完成录像文件的管理和回放
 
-- **Android智能眼镜项目**
+- **Android 智能眼镜项目**
 
 类似 Google Glass 的项目，实现了一款智能眼镜解决方案。
 
 1. 定 制Android Framework，将系统启动时间由 31s 缩短到 15s，提高了 50%
 2. 编写多款系统内置应用，包括：语音识别与控制、二维码的扫描和识别、支持基于 HTTP/RTSP/RTMP 协议的远程视频播放、支持基于 DLNA 协议的音视频投射等功能
 
-- **监控摄像头Android客户端** 
+- **监控摄像头 Android 客户端** 
 
 类似 DropCam 的项目，实现多种家庭监控摄像头应用，包括基 于P2P 模式、基于 Skype 协议、基于云存储转发等等。
 
@@ -77,20 +76,29 @@
 3. 负责 Web 服务器 Boa 的移植，配置网页及 CGI 脚本的编写
 
 
+
 **博客专题**
 ------------------
 
-- **[音视频/多媒体开发][2]**
-
-分享音视频/多媒体相关开发经验
-
 - **[Android 应用开发][3]**
 
-分享 Android App 开发相关经验
+分享 Android App 开发的相关经验
 
 - **[Android 内核开发][4]**
 
-分享 Android 内核开发相关经验
+分享 Android 内核开发的相关经验
+
+- **[FFMPEG Tips][6]**
+
+分享部分 ffmpeg 的编程技巧
+
+- **[音视频/多媒体开发][2]**
+
+分享音视频/多媒体相关的开发经验
+
+- **[播疑难杂症排查][5]**
+
+分享排查客户直播疑难杂症的相关经验
 
 
 **个人项目**
@@ -129,3 +137,5 @@
 [2]: http://ticktick.blog.51cto.com/823160/d-15
 [3]: http://ticktick.blog.51cto.com/823160/d-7
 [4]: http://ticktick.blog.51cto.com/823160/d-11
+[5]: http://ticktick.blog.51cto.com/823160/d-16
+[6]: http://ticktick.blog.51cto.com/823160/d-17
