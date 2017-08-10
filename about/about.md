@@ -17,9 +17,8 @@
 - 有丰富的 Android 多媒体开发经验，熟悉 Camera/MediaCodec/OpenGL ES 相关 API，熟悉 JNI/NDK 开发
 - 熟悉 C/C++/Java，有 Android/Linux 内核和驱动开发经验，有良好的软件设计和架构能力，能独当一面
 - 熟悉 ffmpeg，ijkplayer，librtmp，webrtc，x264，libyuv，opus，speex 等开源项目
-- 热衷于分享技术经验，8 年技术博客，分享 150 多篇原创文章，60% 的文章被社区首页推荐
+- 热衷于分享技术经验，8 年技术博客，分享 160 多篇原创文章，60% 的文章被社区首页推荐
 - 个人的开源项目：[YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)， [TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在 GitHub 上拥有 500+ Star
-- 主导开发的项目：[PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)，在 GitHub 上拥有 2K+ Star，[PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) ，在 GitHub 上拥有 500+ Star
 
 
 ## **工作经历**
@@ -36,7 +35,7 @@
 
 - **Android 推流 SDK 开发和维护**
 
-一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发。
+一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发，项目地址: [PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) 
 
 
 #### 2013.04 - 2016.03   Omnivision    嵌入式系统工程师 
