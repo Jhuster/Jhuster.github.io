@@ -33,7 +33,7 @@
 
 一款适用于 Android 平台的推流 SDK，支持 RTMP 协议推流，支持 H.264/AAC 软硬编，支持美颜滤镜、混音反听、连麦互动等丰富的功能， 接口简单易用，可高度定制化和二次开发，项目地址： [PLDroidCameraStreaming](https://github.com/pili-engineering/PLDroidCameraStreaming)
 
-- **Android 推流 SDK 开发和维护**
+- **Android 短视频 SDK 开发和维护**
 
 一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发，项目地址: [PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) 
 
@@ -95,7 +95,7 @@
 
 分享音视频/多媒体相关的开发经验
 
-- **[播疑难杂症排查][5]**
+- **[直播疑难杂症排查][5]**
 
 分享排查客户直播疑难杂症的相关经验
 
