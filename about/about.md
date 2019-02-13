@@ -4,100 +4,69 @@
 
 
 ##**基本信息**
-- 男，30岁，毕业于华中科技大学，计算机应用专业，硕士
+- 男，31 岁，毕业于华中科技大学，计算机应用专业，硕士
 - 技术博客: [http://ticktick.blog.51cto.com](http://ticktick.blog.51cto.com)
 - Github:   [https://github.com/Jhuster](https://github.com/Jhuster)
 - E-mail:   lujun.hust@gmail.com
 
-
-
 ##**专业技能**
 
-- 有丰富的音视频领域开发经验，熟悉 RTMP/RTSP/HLS/HTTP/RTP 等网络协议，熟悉 H.264/AAC/OPUS 等音视频编解码算法，熟悉 FLV/TS/MP4 等封装格式
-- 有丰富的 Android 多媒体开发经验，熟悉 Camera/MediaCodec/OpenGL ES 相关 API，熟悉 JNI/NDK 开发
-- 熟悉 C/C++/Java，有 Android/Linux 内核和驱动开发经验，有良好的软件设计和架构能力，能独当一面
-- 熟悉 ffmpeg，ijkplayer，librtmp，webrtc，x264，libyuv，opus，speex 等开源项目
-- 热衷于分享技术经验，8 年技术博客，分享 160 多篇原创文章，60% 的文章被社区首页推荐
-- 个人的开源项目：[YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)， [TLV编解码器](https://github.com/Jhuster/TLV)，[ImageCropper](https://github.com/Jhuster/ImageCropper)，[体重档案](https://github.com/Jhuster/EWeightScale)，[JNote](https://github.com/Jhuster/JNote)，在 GitHub 上拥有 500+ Star
+- 有丰富的音视频领域开发经验，开发过短视频和播放器产品的核心组件，熟悉 RTMP/HLS/RTP/RTCP 等流媒体协议，熟悉 H.264/AAC/OPUS 等音视频编解码算法，熟悉 FLV/TS/MP4 等媒体封装格式，熟悉 WebRTC/ffmpeg 等开源项目
+- 熟练掌握 C/C++/Java/Go 等多种编程语言，精通 Android 多媒体开发，熟悉 Web 后端开发，有 Linux 内核和驱动开发经验，有良好的软件设计和架构能力，有较强的分析问题解决问题的能力，能独当一面
+- 熟悉互联网领域主流技术框架，熟悉云计算产品（云存储，CDN，云主机，大数据，容器等），对互联网公司的业务和产品有深刻理解
+- 热衷于分享技术经验，坚持近 10 年的技术博客，分享了 170 多篇原创文章，60% 的文章被社区首页推荐
+- 有较强的责任心和组织管理能力，具备不错的沟通能力和领导能力，有良好的业务能力和产品思维，带领过 20 人左右的团队，成功推出过两款极具市场竞争力的音视频 SDK 产品
 
 
 ## **工作经历**
 
-#### 2016.03 - 至今     上海七牛信息技术有限公司    客户端团队研发负责人 
+#### 2016.03 ～ 2019.01，七牛云
 
-- **Android 播放 SDK 开发和维护**
+- **Android 播放器 SDK**
+    - 基于 ijk 开源播放器，封装了一套 Android 平台的播放器 SDK（v1 版），项目地址：[PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
+    - 完成多项深度的功能定制和优化，包括：秒开优化、追帧播放、DNS 缓存优化等
+    - 凭借良好的接口设计、封装、文档和稳定性，获得 3000+ Star，上百家 app 使用
+- **音视频 SDK 团队 leader**
+    - 带领团队设计和开发了 Android/iOS 短视频 SDK，3 个月完成初版上线，2 周一次功能迭代，6 个月开始规模接客，8 个月左右功能和性能赶超最强竞争对手，成为市面上极具竞争力的一款短视频 SDK 产品
+    - 带领团队完成了音视频 SDK 产品质量和运营体系的建设，包括：直播质量监控和排障体系建设，运营数据打点上报 -> 大数据分析，崩溃率的统计和降低等
+    - 带领团队参与 P2P CDN 、H.265/QUIC 直播、HTTP DNS 、智能相册、实时音视频云等产品的设计和实现
 
-一款适用于 Android 平台的播放器 SDK，支持 RTMP/HLS 协议播放，支持 H.264/AAC 软硬解，支持 mp4/flv 等多种封装格式，支持首屏秒开、IP 播放、本地缓存、倍数播放等丰富的功能，接口简单易用，可高度定制化和二次开发，项目地址: [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)
+- **交付部门负责人**
+    - 带领业务架构师团队完成客户的业务梳理、需求分析，输出针对性的解决方案，制定可执行的交付计划
+    - 带领项目经理/实施/研发团队完成项目的成本、质量、进度的管控，指导并参与核心系统的架构和实施，组织解决项目过程中的重大问题
+    - 成功完成多个私有云项目的高质量交付，包括：上海卷烟厂大数据项目、凤凰金融远程双录存储项目等
+    - 针对行业痛点，推出多个场景化解决方案和工具，如：车载监控方案、直播答题方案、点播 DRM 解决方案，在线教育解决方案等，降低客户使用门槛，提高商业机会的转化率
 
-- **Android 推流 SDK 开发和维护**
+#### 2016.03 ～ 2016.03，OmniVision
 
-一款适用于 Android 平台的推流 SDK，支持 RTMP 协议推流，支持 H.264/AAC 软硬编，支持美颜滤镜、混音反听、连麦互动等丰富的功能， 接口简单易用，可高度定制化和二次开发，项目地址： [PLDroidCameraStreaming](https://github.com/pili-engineering/PLDroidCameraStreaming)
+- 负责开发和维护各种 IPCamera 摄像头端的嵌入式 firmware 固件程序
+- 负责开发各种 IPCamera 产品的 Android 端 app， 包括：类似大疆无人机的 Android app，类似萤石摄像头的 Android app，支持的功能包括：用户管理、设备的搜索和配置、基于 P2P/RTSP/RTMP 协议的实时拉流播放、点播视频的检索和回放等
+- 参与 OV-Glass 产品开发（类似  Google Glass 的项目，智能眼镜解决方案），通过剪裁和深度定制 Android ROM，将系统启动时间由 31s 缩短到 15s，提高了 50%
 
-- **Android 短视频 SDK 开发和维护**
+#### 2010.07  ～  2013.04，研究生课题
 
-一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发，项目地址: [PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) 
+视频服务器（DVS）产品：一款 ARM + DSP 双核视频服务器产品，支持挂载 8 路 PAL/NTSC 模拟摄像头，同时实现 8 路音视频数据的采集、编码、转发、存储等功能。
 
-
-#### 2013.04 - 2016.03   Omnivision    嵌入式系统工程师 
-
-- **无人机 Android 客户端**
-
-类似大疆无人机的项目，支持 1080P 高清视频拍摄和录像，Android 客户端 App 完成远程控制和画面的实时预览
-
-1. 独立负责 Android 客户端 App 开发，完成 UI 的实现与优化
-2. 基于 Java Socket 实现无人机控制协议，并完成视频码流的接收和解析
-3. 基于 ffmpeg 和 MediaCodec 完成音视频的软/硬件解码和显示
-4. 通过 Samba 协议和 Web Sever 完成录像文件的管理和回放
-
-- **Android 智能眼镜项目**
-
-类似 Google Glass 的项目，实现了一款智能眼镜解决方案。
-
-1. 定 制Android Framework，将系统启动时间由 31s 缩短到 15s，提高了 50%
-2. 编写多款系统内置应用，包括：语音识别与控制、二维码的扫描和识别、支持基于 HTTP/RTSP/RTMP 协议的远程视频播放、支持基于 DLNA 协议的音视频投射等功能
-
-- **监控摄像头 Android 客户端** 
-
-类似 DropCam 的项目，实现多种家庭监控摄像头应用，包括基 于P2P 模式、基于 Skype 协议、基于云存储转发等等。
-
-1. 负责各种方案的 Android App 客户端开发，完成 UI 的实现与优化
-
-2. 完成用户登录、注册、系统设置、设备列表、连接管理、远程控制、画面预览、报警检测、录像文件检索与回放、固件升级等页面的实现
-
-#### 2010.07 - 2013.04   研究生课题
-
-- **视频服务器（DVS）产品固件开发** 
-
-一款 ARM+DSP 双核视频服务器产品（DVS），支持 8 路 PAL/NTSC 模拟摄像头，支持同时实现 8 路音视频数据的采集、编码、转发、存储等功能。
-
-1. 负责为产品的 AD/DA 芯片编写 Linux I2C/V4L2 设备驱动
-2. 负责 ARM 端 Firmware 的视频的采集、编码、网络传输、存储功能的开发
-3. 负责 Web 服务器 Boa 的移植，配置网页及 CGI 脚本的编写
-
-
+  - 负责为产品的 AD/DA 芯片编写 Linux I2C/V4L2 设备驱动
+  - 负责 ARM 端 firmware 的视频的采集、编码、网络传输、存储功能的开发
+  - 负责 Web 服务器 Boa 的移植，配置网页及 CGI 脚本的编写
 
 **博客专题**
 ------------------
 
-- **[Android 应用开发][3]**
+- **[WebRTC 开发实践](http://blog.51cto.com/ticktick/category19.html)**
 
-分享 Android App 开发的相关经验
+- **[播放器技术分享](http://blog.51cto.com/ticktick/category18.html)**
 
-- **[Android 内核开发][4]**
+- **[音视频/多媒体开发](http://blog.51cto.com/ticktick/category15.html)**
 
-分享 Android 内核开发的相关经验
+- **[FFMPEG Tips](http://blog.51cto.com/ticktick/category17.html)**
 
-- **[FFMPEG Tips][6]**
+- **[直播疑难杂症排查](http://blog.51cto.com/ticktick/category16.html)**
 
-分享部分 ffmpeg 的编程技巧
+- **[Android 应用开发](http://blog.51cto.com/ticktick/category7.html)**
 
-- **[音视频/多媒体开发][2]**
-
-分享音视频/多媒体相关的开发经验
-
-- **[直播疑难杂症排查][5]**
-
-分享排查客户直播疑难杂症的相关经验
+- **[Android 内核开发](http://blog.51cto.com/ticktick/category11.html)**
 
 
 **个人项目**
@@ -111,17 +80,13 @@
 
 一款 Android 平台的 YUV 图像显示工具（ [YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)），基于 ffmpeg 开发，支持各种 YUV 格式图像的解码和显示。
 
-- **TLV编解码器（已开源）**
+- **TLV 编解码器（已开源）**
 
 一款 TLV 格式的编解码器库（[TLV](https://github.com/Jhuster/TLV)），提供简单易用的 TLV 格式编码解码 API 接口，目前已经实现了 C/C++/Java 等多个版本。
 
 - **Android 图片剪裁库（已开源）**
 
 一款 Android 的图片剪裁库([ImageCropper](https://github.com/Jhuster/ImageCropper))，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的 UI 界面，可以方便地集成到 Android 项目中。
-
-- **体重档案（已开源）**
-
-一款可以记录和查询体重值的 Android 应用（[体重档案](https://github.com/Jhuster/EWeightScale)），通过本应用可以随时记录体重值，生成动态曲线图，实时算出 BMI 值，诊断用户当前健康状况。
 
 - **JNote笔记（已开源）**
 
@@ -132,9 +97,3 @@
 ---------
 本页面只公开了部分信息，更多详情欢迎邮件联系：lujun.hust@gmail.com。
 
-[1]: http://www.qiniu.com/
-[2]: http://ticktick.blog.51cto.com/823160/d-15
-[3]: http://ticktick.blog.51cto.com/823160/d-7
-[4]: http://ticktick.blog.51cto.com/823160/d-11
-[5]: http://ticktick.blog.51cto.com/823160/d-16
-[6]: http://ticktick.blog.51cto.com/823160/d-17
