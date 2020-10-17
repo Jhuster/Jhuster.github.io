@@ -3,25 +3,25 @@
 =============
 
 ## **基本信息**
-- 男，32 岁，毕业于华中科技大学（本硕），计算机应用专业，Dian 团队队员
+- 男，毕业于华中科技大学（本硕），计算机应用专业，Dian 团队队员
 - 技术博客: [http://ticktick.blog.51cto.com](http://ticktick.blog.51cto.com)
 - Github:   [https://github.com/Jhuster](https://github.com/Jhuster)
 - E-mail:   lujun.hust@gmail.com
 
 ## **专业技能**
 
-- 有丰富的音视频领域开发经验，开发过短视频、播放器、直播和实时通信等产品，熟悉 RTMP/HLS/RTP/RTCP 等流媒体协议，熟悉 H.264/AAC/OPUS 等音视频编解码算法，熟悉 FLV/TS/MP4 等媒体封装格式，熟悉 WebRTC/ffmpeg 等开源项目
-- 熟练掌握 C/C++/Java/Golang 等多种编程语言，精通 Android 多媒体开发，熟悉 Web 后端开发，有 Linux 内核和驱动开发经验，有良好的软件设计和架构能力，有较强的分析问题解决问题的能力，能独当一面
+- 有 10+ 年的音视频领域开发经验，以核心技术的身份参与和主导过 “短视频 SDK”、“播放器 SDK”、“直播推流 SDK”、“实时通信云服务（RTC）”、“视频会议” 等多款音视频产品
+- 熟练掌握 C/C++/Java/Golang/Python 等多种编程语言，精通 Android 多媒体开发，有良好的软件设计和架构能力，有较强的分析问题解决问题的能力，能独当一面
 - 熟悉互联网领域主流技术框架，熟悉云计算产品（云存储，CDN，云主机，大数据，容器等），对互联网公司的业务和产品有深刻理解
 - 热衷于分享技术经验，坚持 10+ 年的技术博客，分享了 140 多篇原创文章，60% 的文章被社区首页推荐
-- 有较强的责任心和组织管理能力，具备不错的沟通能力和领导能力，有良好的业务能力和产品思维，带领过 20 人左右的团队，成功推出过两款极具市场竞争力的音视频 SDK 产品
+- 有较强的责任心和组织管理能力，具备不错的沟通能力和领导能力，有良好的业务能力和产品思维，带领过 20+ 人的研发团队，成功从 0 到 1 推出过多款极具市场竞争力的音视频产品
 
 
 ## **工作经历**
 
 #### 2019.02 ～ 至今，字节跳动
 
-- 音视频架构师，负责一款实时音视频产品的开发。
+- 字节跳动-火山引擎-视频会议产品负责人，从 0 到 1 主导了该产品的团队组建、技术研发、产品化和上线，官网链接：[这里](https://www.volcengine.cn/product/meeting)。
 
 #### 2016.03 ～ 2019.01，七牛云
 
@@ -71,29 +71,7 @@
 
 - **[Android 内核开发](http://blog.51cto.com/ticktick/category11.html)**
 
-
-**个人项目**
-------------------
-
-- **Android VOIP 网络电话**
-
-一款 Android 网络电话应用，工作于局域网，自定义设备发现与通话协议，采用 OPUS 算法对音频进行压缩和解压缩，采用 Speex 库对信号进行去噪和回声消除，核心功能基于 C++ 语言开发，可方便地移植到 Windows/Linux/iOS 等多个平台。
-
-- **YUVDroidTools（已开源）**
-
-一款 Android 平台的 YUV 图像显示工具（ [YUVDroidTools](https://github.com/Jhuster/YUVDroidTools)），基于 ffmpeg 开发，支持各种 YUV 格式图像的解码和显示。
-
-- **TLV 编解码器（已开源）**
-
-一款 TLV 格式的编解码器库（[TLV](https://github.com/Jhuster/TLV)），提供简单易用的 TLV 格式编码解码 API 接口，目前已经实现了 C/C++/Java 等多个版本。
-
-- **Android 图片剪裁库（已开源）**
-
-一款 Android 的图片剪裁库([ImageCropper](https://github.com/Jhuster/ImageCropper))，封装了图片剪裁的坐标计算与剪裁处理，提供了简单易用的 UI 界面，可以方便地集成到 Android 项目中。
-
-- **JNote笔记（已开源）**
-
-一款支持部分 Markdown 语法的轻量级便签应用（[JNote](https://github.com/Jhuster/JNote)），可以方便快速地完成 Markdown 标签的添加，支持生成长微博图片保存到本地等功能。
+- **[职场心得](https://www.zhihu.com/column/c_1174077608882065408)**
 
 
 **其他信息**
